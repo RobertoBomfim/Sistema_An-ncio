@@ -2,6 +2,7 @@
 Este sistema tem por finalidade cadastrar anúncios, e com base nas informações coletadas emitir relatórios sobre estes.
 
 - Como executar:
+
 1° Faça o download ou clone do repósitorio;
 
 2° Extraia a pasta do arquivo zipado para dentro da pasta do seu servidor local; (Caso não tenha nenhum instalado indico o XAMPP que vem com as ferramentas necessárias)
