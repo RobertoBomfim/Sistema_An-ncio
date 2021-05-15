@@ -19,3 +19,7 @@ Obs: Caso seu banco de dados local possua senha, abra o arquivo config.php em um
 - Na tela inicial do sistema aparece um formulário para cadastrar um anúncio, se quiser fazer um cadastro basta preencher os campos solicitados e clicar no botão "Cadastrar" no final do formulário. Caso queira emitir um relatório basta clicar no botão "Relatório" ao lado do botão Cadastrar.
  
 - Clicando no botão Relatório você será direcionado à um formulário para filtragem de informação. Basta preencher as informações solicitadas e clicar no botão "Emitir". Ao clicar em Emitir será impresso na tela as informações de acordo com os dados informados na filtragem.
+
+
+*Outras informações:
+O sistema foi desenvolvido utilizando HTML, CSS, PHP e MySQL. O calcúlo lógico para a emissão do relatório encontra-se no arquivo listar.php;
