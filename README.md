@@ -3,8 +3,11 @@ Este sistema tem por finalidade cadastrar anúncios, e com base nas informaçõe
 
 - Como executar:
 1° Faça o download ou clone do repósitorio;
-2° Extraia a pasta do arquivo zipado para dentro da pasta do seu servidor local; (Caso não tenha nenhum instalado indico o XAAPP que vem com as ferramentas necessárias)
+
+2° Extraia a pasta do arquivo zipado para dentro da pasta do seu servidor local; (Caso não tenha nenhum instalado indico o XAMPP que vem com as ferramentas necessárias)
+
 3° Inicialize seu servidor e banco de dados local; 
+
 4° Abra seu navegador de internet e na barra de endereço digite localhost\sistema_anuncio
 Após essa última etapa é esperado que a tela de preenchimento do formulário para cadastro de anúncio seja aberta. 
 
